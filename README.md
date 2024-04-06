@@ -2,7 +2,7 @@
 
 Submitted by: **Riley Dou**
 
-**Task List** is an app that allows you to organize your tasks. You can create new tasks, edit existing tasks, and mark them as complete to see your progress! You can also view each task in a calendar, so you can easily see which tasks are set for which date.
+**Task List** is an app that allows you to organize your tasks. You can create new tasks, edit existing tasks, and mark tasks as complete to see your progress! You can also view each task in a calendar, so you can easily see which tasks are set for which date.
 
 Time spent: **3** hours spent in total
 
@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [x] App displays a list of tasks
 - [x] Users can add tasks to the list
-- [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
+- [x] Session persists when application is closed and relaunched (tasks don't get deleted when closing app) 
   - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
 - [x] Tasks can be deleted
 - [x] Users have a calendar view via navigation controller that displays tasks    
